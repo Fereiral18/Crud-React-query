@@ -1,5 +1,7 @@
+import { Products } from "./components/Products";
+
 const App = () => {
-  return <div>hello world</div>;
+  return <Products />;
 };
 
 export default App;
