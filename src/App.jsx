@@ -1,7 +1,13 @@
 import { Products } from "./components/Products";
+import { ProductsForm } from "./components/ProductsForm";
 
 const App = () => {
-  return <Products />;
+  return (
+    <>
+      <ProductsForm />
+      <Products />;
+    </>
+  );
 };
 
 export default App;

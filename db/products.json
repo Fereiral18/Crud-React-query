@@ -1,25 +1,39 @@
 {
-    "products":[
+  "products": [
     {
-        "id" : 1,
-        "name" : "laptop",
-        "description" : "laptop gaming",
-        "price" : 1000,
-        "inStock" : true
+      "id": 1,
+      "name": "laptop",
+      "description": "laptop gaming",
+      "price": 1000,
+      "inStock": true
     },
     {
-        "id" : 2,
-        "name" : "mouse",
-        "description" : "mouse gaming",
-        "price" : 100,
-        "inStock" : true
+      "id": 2,
+      "name": "mouse",
+      "description": "mouse gaming",
+      "price": 100,
+      "inStock": true
     },
     {
-        "id" : 3,
-        "name" : "keyboard",
-        "description" : "keyboard gaming",
-        "price" : 200,
-        "inStock" : true
+      "id": 3,
+      "name": "keyboard",
+      "description": "keyboard gaming",
+      "price": 200,
+      "inStock": true
+    },
+    {
+      "name": "monitor lcd",
+      "description": "monitor gamer",
+      "price": "500",
+      "inStock": true,
+      "id": 4
+    },
+    {
+      "name": "mouse",
+      "description": "mouse razer",
+      "price": "300",
+      "inStock": false,
+      "id": 5
     }
-    ]
+  ]
 }
